@@ -24,6 +24,7 @@
 .name{
     padding:3%;
     width: 30%;
+    color: white;
 }
 .navLinks{
     display: flex;
@@ -36,7 +37,7 @@
 }
 .navLinks div a{
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: small;
 }
 .hireMeBox{
@@ -51,4 +52,14 @@
     padding: 10px;
     outline: none;
     width: 100px;
+}
+
+/* intro */
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.941) 45%, rgba(5, 0, 48, 0.916) 100%);
 }
