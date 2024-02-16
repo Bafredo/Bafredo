@@ -21,17 +21,19 @@
 }
 .name{
     padding:3%;
-    width: 35%;
+    width: 30%;
     background-color: aqua;
 }
 .navLinks{
     display: flex;
     width: 40%;
+    background-color: blueviolet;
+    justify-content: space-around;
 }
 .navLinks div{
     margin-top: 5%;
     padding: 1%;
-    margin-left: 10px;
+    background-color: blue;
 }
 .navLinks div a{
     text-decoration: none;
