@@ -22,18 +22,15 @@
 .name{
     padding:3%;
     width: 30%;
-    background-color: aqua;
 }
 .navLinks{
     display: flex;
     width: 34%;
-    background-color: blueviolet;
     justify-content: space-around;
 }
 .navLinks div{
     margin-top: 5%;
     padding: 1%;
-    background-color: blue;
 }
 .navLinks div a{
     text-decoration: none;
