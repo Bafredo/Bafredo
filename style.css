@@ -22,6 +22,7 @@
 .name{
     padding:3%;
     width: 35%;
+    background-color: aqua;
 }
 .navLinks{
     display: flex;
