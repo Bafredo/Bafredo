@@ -75,10 +75,48 @@ body{
     font-style: italic;
     font-size: 40px;
     color: aqua;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: 'cursive';
 }
-.introContent p{
+.introContent .im{
     font-size: 20px;
     font-weight: 100;
+}
+.a{
+    font-size: small;
+    font-weight: 100;
+}
+.introContent .skills{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* background-color: gray; */
+    /* color: black; */
+    /* padding: 20px;
+    border-radius: 10px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.introContent div ul{
+    font-size: small;
+    font-weight: 100;
+}
+.introContent div ul li{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.hr{
+    height:2px;
+    margin:4%;
+    background-image: linear-gradient(90deg, rgb(65, 255, 249), rgb(72, 147, 246), rgb(55, 33, 255));
+}
+.mySkills{
+    display: flex;
+}
+.sk{
+    color: black;
+    background-color: beige;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
 }
