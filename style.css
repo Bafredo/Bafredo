@@ -26,7 +26,7 @@
 }
 .navLinks{
     display: flex;
-    width: 40%;
+    width: 34%;
     background-color: blueviolet;
     justify-content: space-around;
 }
