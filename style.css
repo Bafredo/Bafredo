@@ -19,7 +19,7 @@ body{
     border-radius: 10px;
     border: 1px solid white;
     width: 96%;
-    height: 70px;
+    height: 90px;
     margin: 2%;
     display: flex;
     background-image: linear-gradient(90deg, rgba(4, 1, 60, 0.341) 0%, rgba(9, 9, 121, 0.25) 35%, rgba(0, 213, 255, 0.234) 100%);
