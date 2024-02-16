@@ -21,25 +21,35 @@
 }
 .name{
     padding:3%;
-    width: 50%;
+    width: 30%;
 }
 .navLinks{
     display: flex;
-    width: 50%;
+    width: 40%;
 }
 .navLinks div{
-    padding: 3%;
+    margin-top: 5%;
+    padding: 1%;
+    margin-left: 10px;
 }
 .navLinks div a{
     text-decoration: none;
     color: black;
     font-size: small;
 }
-.navLinks div button{
+.hireMeBox{
+    width: 25%;
+    position: relative;
+    padding: 1%;
+}
+.hireMe{
+    position: absolute;
+    right: 3%;
     background-color: black;
     color: white;
     border: 1px solid white;
     border-radius: 5px;
     padding: 10px;
     outline: none;
+    width: 100px;
 }
