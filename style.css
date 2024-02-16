@@ -1,4 +1,45 @@
-#title{
-    background-color: #ff4c68;
-    padding: 5px;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    width: 100%;
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0);
+    color: black;
+    position: fixed;
+    z-index: 1;
+}
+.navBar{
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 96%;
+    margin: 2%;
+    display: flex;
+    background-image: linear-gradient(90deg, rgba(4, 1, 60, 0.341) 0%, rgba(9, 9, 121, 0.25) 35%, rgba(0, 213, 255, 0.234) 100%);
+}
+.name{
+    padding:3%;
+    width: 50%;
+}
+.navLinks{
+    display: flex;
+    width: 50%;
+}
+.navLinks div{
+    padding: 3%;
+}
+.navLinks div a{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+}
+.navLinks div button{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
 }
