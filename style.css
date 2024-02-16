@@ -218,3 +218,8 @@ body{
     align-items: center;
     justify-content: center;
 }
+.proBody a{
+    text-decoration: none;
+    font-size: small;
+    margin: 10px;
+}
