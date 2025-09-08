@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge&logo=github" alt="Full Stack Developer Badge"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Fredrick Muyoma</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Full Stack Developer | IoT Enthusiast | Android Engineer</h3>
 
 ---
