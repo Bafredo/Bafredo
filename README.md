@@ -64,17 +64,16 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 SKILLSET GIST 
 
-- 🌱 **LCMAS (Local Climate Monitoring & Advisory System)**  
-  Role-based full-stack platform with **real-time sensor data, AI insights, and farmer advisories**.  
-  *Tech:* React, Node.js, PostgreSQL, JWT, WebSockets, gRPC  
+- 🌱 **Full-stack**  
+  Role-based full-stack platform with **real-time data** (RTDB, socket.io, websocket, raw socket, realtime GRPc), **AI intergration, Backend dev** *SpringBoot* - REST, GRPC, GRAPHQL   *Node* - REST, GRPC *Databases* - MongoDB, MySQL, PostgreSQL **Frontend dev** Vite-React competent, Angular and NEXT.  
+- 🎵 **Android**  
+  Android with Kotlin **Jetpack Compose** UI pack with material3. Android lifecycle understanding. Know my way around *Foreground Services*, *Lifecycle singletons*, *Native android APIs*, *Channels*, *Intents*, *viewmodels*, *BroadCast receivers*, *DeepLinking*, *Newwork call intergrations*. Experience in Java X XML android dev  
 
-- 🎵 **Music Player App**  
-  Android **Jetpack Compose** music player with **MediaStore integration**, **background services**, and **media notifications**.  
-
-- 🔌 **IoT Climate Monitor**  
-  ESP32 sensors integrated with **Spring Boot WebSockets & gRPC backend**, **real-time dashboards**, and **LED control system**.  
+- 🔌 **IoT**  
+  Full IOT system and architectural design. Done **LORA Gateway** device management with *ttn*, **IoT network security**, **Custom device** development and intergration. Worked with **ESP32**, **Arduino**, **Raspberry pi**.
+  *Tech *: Python, MicroPython, Arduino C/C++, pico sdk C++
 
 ---
 
